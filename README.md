@@ -1,6 +1,4 @@
 # Secure-Messaging-Protocol
-Aarushi Shankar and Andres Garcia
-
 **Set-Up**
 In order to use the server, you need to download *client.py* and the *server_pubkey.pem*. If you do not download the public key it will generate upon server start-up.
 
